@@ -1,9 +1,6 @@
 ## About me
 ### 3rd-year student, Faculty of Economics, PEARL Program, Keio University
 ### 1.5+ years of experiences in building BtoB SaaS products at internships
-### P.S I indulge in a lil bit of lifting heavy stuffy as well
-#### Big 3 Total: 470 kgs
-#### S/B/D: 200kg / 95kg / 175kg
 
 <p align="left"> 
   <img alt="Top Langs" height="200px" width="353px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bonbooon&layout=compact&show_icons=true&theme=synthwave" />

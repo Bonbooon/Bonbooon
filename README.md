@@ -1,16 +1,32 @@
-## Hi there 👋
+## About me
+### 3rd-year student, Faculty of Economics, PEARL Program, Keio University
+### 1.5+ years of experiences in building BtoB SaaS products at internships
+### P.S I indulge in a lil bit of lifting heavy stuffy as well
+#### Big 3 Total: 470 kgs
+#### S/B/D: 200kg / 95kg / 175kg
 
-<!--
-**Bonbooon/Bonbooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <img alt="Top Langs" height="200px" width="353px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bonbooon&layout=compact&show_icons=true&theme=synthwave" />
+  <img alt="github stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bonbooon&theme=synthwave&show_icons=ture" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">My Skills:</h3>
+ 
+<h4 align="left">Frontend</h4>
+
+[![MySkill](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,astro&theme=dark)](https://skillicons.dev)  
+
+
+<h4 align="left">Backend</h4>
+
+[![MySkill](https://skillicons.dev/icons?i=php,laravel,python,go,kotlin,graphql,django&theme=dark)](https://skillicons.dev)  
+
+<h4 align="left">Others</h4> 
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,aws,docker,postman,terraform,r&theme=dark)](https://skillicons.dev)
+
+
+<h3 align="left">My Goal:</h3>
+
+🤖 IT Solution Engineer 

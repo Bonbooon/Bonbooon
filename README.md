@@ -22,8 +22,3 @@
 <h4 align="left">Others</h4> 
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,aws,docker,postman,terraform,r&theme=dark)](https://skillicons.dev)
-
-
-<h3 align="left">My Goal:</h3>
-
-🤖 IT Solution Engineer 
